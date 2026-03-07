@@ -2,7 +2,6 @@
   <b>Halo Bang! 😅  </b>
 </p>
 <p align="center">
-    <img src="img/github-header-banner.png" alt="header">
     <img src="https://media1.tenor.com/m/vwkiuuIk-u8AAAAC/chitose-kun-wa-ramune-bin-no-naka-chitose-is-in-the-ramune-bottle.gif" alt="Chitose">
 </p>
 <p align="center">
