@@ -31,6 +31,6 @@
   <b>🔭 I’m currently working on Data Science & AI/ML  </b>
 </p>
 <p align="center">
-  <b>📫 How to reach me:  </b>
+  <b>📫 How to reach me: </b>
   ![https://www.linkedin.com/in/rachmadfebriananda/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 </p>
