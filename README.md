@@ -2,6 +2,7 @@
   <b>Halo Bang! 😅  </b>
 </p>
 <p align="center">
+    <img src="img/github-header-banner.png" alt="header">
     <img src="https://media1.tenor.com/m/vwkiuuIk-u8AAAAC/chitose-kun-wa-ramune-bin-no-naka-chitose-is-in-the-ramune-bottle.gif" alt="Chitose">
 </p>
 <p align="center">
@@ -36,5 +37,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Deskripsi Gambar">
   </a>
 </p>
-
-![Rachmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=rachmadnanda&show_icons=true&theme=radical)
