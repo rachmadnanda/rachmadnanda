@@ -5,7 +5,7 @@
     <img src="https://media1.tenor.com/m/vwkiuuIk-u8AAAAC/chitose-kun-wa-ramune-bin-no-naka-chitose-is-in-the-ramune-bottle.gif" alt="Chitose">
 </p>
 <p>
-  <img src="{https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white}" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="{BadgeURLHere}" />
   <img src="{BadgeURLHere}" />
   <img src="{BadgeURLHere}" />
