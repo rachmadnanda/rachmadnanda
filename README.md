@@ -31,6 +31,10 @@
   <b>🔭 I’m currently working on Data Science & AI/ML  </b>
 </p>
 <p align="center">
-  <b>📫 How to reach me: </b>
-  ![https://www.linkedin.com/in/rachmadfebriananda/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+  <b>📫 How to reach me: </b> <br>
+  <a href="https://www.linkedin.com/in/rachmadfebriananda/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Deskripsi Gambar">
+  </a>
 </p>
+
+![Rachmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=rachmadnanda&show_icons=true&theme=radical)
