@@ -2,7 +2,7 @@
   <b>Halo Bang! 😅  </b>
 </p>
 <p align="center">
-    <img src="https://media1.tenor.com/m/vwkiuuIk-u8AAAAC/chitose-kun-wa-ramune-bin-no-naka-chitose-is-in-the-ramune-bottle.gif" alt="Chitose" style="width: 70%; height: auto;">
+    <img src="https://i.pinimg.com/originals/7c/b7/59/7cb759ee21a05a65448753cb52012e77.gif" alt="hyouka" style="width: 70%; height: auto;">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
